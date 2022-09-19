@@ -1,0 +1,2 @@
+# ahorcado
+miñano puto
