@@ -4,7 +4,9 @@ String.prototype.replaceAt=function(index, character)
 { return this.substring(0, index) + character + this.substring(index+character.length); 
 } 
 
-
+/**
+ * Pinche miñano puto
+ */
 const palabras = ['casa ', 'perro', 'gato', 'elefante'];
 
 const palabra =  palabras[Math.floor(Math.random()*palabras.length)];
